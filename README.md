@@ -6,7 +6,7 @@
   </p>
 
   <p>🔗 <strong>Live Site:</strong> 
-    <a href="https://adotmdot.github.io/Age-Calculator/age%20calc-index.html" target="_blank" style="color:#87CEEB;">Check it Out</a>
+    <a href="https://adotmdot.github.io/Age-Calculator/main/age%20calc-index.html" target="_blank" style="color:#87CEEB;">Check it Out</a>
   </p>
 
   <hr style="border: 1px solid #333;" />
